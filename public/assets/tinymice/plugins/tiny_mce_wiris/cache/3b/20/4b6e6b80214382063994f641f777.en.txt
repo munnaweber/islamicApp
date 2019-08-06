@@ -1,0 +1,1 @@
+{"result":{"text":"a squared plus b squared plus v squared space equals space 23"},"status":"ok"}

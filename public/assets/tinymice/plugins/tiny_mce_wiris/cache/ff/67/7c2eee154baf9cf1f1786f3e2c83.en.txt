@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator a squared over denominator b c to the power of c end fraction"},"status":"ok"}

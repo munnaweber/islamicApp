@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator a b c to the power of italic 3 over denominator a b c squared end fraction space plus space space 2 space equals space bold 10"},"status":"ok"}

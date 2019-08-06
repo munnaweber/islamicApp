@@ -1,0 +1,1 @@
+{"result":{"text":"x to the power of 4 plus 1 over x to the power of 4 equals"},"status":"ok"}

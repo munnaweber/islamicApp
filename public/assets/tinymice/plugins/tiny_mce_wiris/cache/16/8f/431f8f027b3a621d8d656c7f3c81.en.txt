@@ -1,0 +1,1 @@
+{"result":{"text":"x squared 1 over x squared space equals space 5"},"status":"ok"}

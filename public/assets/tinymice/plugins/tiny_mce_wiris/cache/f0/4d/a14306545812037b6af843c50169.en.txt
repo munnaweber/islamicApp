@@ -1,0 +1,1 @@
+{"result":{"text":"s d f a s d f to the power of 25 plus s d f a s d subscript 336"},"status":"ok"}

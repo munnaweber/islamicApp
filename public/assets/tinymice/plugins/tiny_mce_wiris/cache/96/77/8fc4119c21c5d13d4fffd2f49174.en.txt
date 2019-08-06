@@ -1,0 +1,1 @@
+{"result":{"text":"a b c d a s space plus space 3 squared"},"status":"ok"}

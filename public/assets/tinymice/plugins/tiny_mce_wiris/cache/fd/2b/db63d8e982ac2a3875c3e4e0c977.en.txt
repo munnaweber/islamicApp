@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses s d f a s d f close parentheses space greater or equal than space s d f s d"},"status":"ok"}

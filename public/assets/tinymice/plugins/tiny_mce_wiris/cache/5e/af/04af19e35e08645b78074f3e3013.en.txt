@@ -1,0 +1,1 @@
+{"result":{"text":"x to the power of 4 plus x to the power of 4 over x to the power of 4 space equals space"},"status":"ok"}

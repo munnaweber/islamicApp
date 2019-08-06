@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator a b c squared over denominator a b c subscript 3 plus square root of begin display style fraction numerator a b cubed over denominator a b end fraction end style end root end fraction space equals space c cubed"},"status":"ok"}

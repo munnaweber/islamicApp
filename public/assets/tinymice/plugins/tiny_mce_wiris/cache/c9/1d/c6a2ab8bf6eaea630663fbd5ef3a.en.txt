@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator a b c d over denominator b squared plus b c subscript 3 plus a b cubed end fraction"},"status":"ok"}

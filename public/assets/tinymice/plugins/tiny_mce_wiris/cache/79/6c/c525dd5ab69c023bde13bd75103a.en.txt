@@ -1,0 +1,1 @@
+{"result":{"text":"a c cubed s plus s s d f"},"status":"ok"}
